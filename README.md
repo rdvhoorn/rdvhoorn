@@ -2,7 +2,7 @@
 
 🌱 I’m currently working on 2 distinct master theses @Philips on the topic of Synthetic Data.
 
-📫 How to reach me at r.v.hoorn@gmail.com
+📫 Contact: r.v.hoorn@gmail.com
 
 <!---
 rdvhoorn/rdvhoorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
