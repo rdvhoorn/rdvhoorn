@@ -1,5 +1,7 @@
 👋 Hi, I’m Robin van Hoorn and I'm a graduate student @Eindhoven University of Technology, The Netherlands. I'm pursuing a double master degree in Artificial Intelligence & Innovation Management.  
+
 🌱 I’m currently working on 2 distinct master theses @Philips on the topic of Synthetic Data.
+
 📫 How to reach me at r.v.hoorn@gmail.com
 
 <!---
