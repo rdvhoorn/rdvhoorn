@@ -1,8 +1,6 @@
-👋 Hi, I’m Robin van Hoorn and I'm a graduate student @Eindhoven University of Technology, The Netherlands. I'm pursuing a double master degree in Artificial Intelligence & Innovation Management.  
+👋 Hi, I’m Robin van Hoorn and I'm a graduate from @Eindhoven University of Technology, The Netherlands. I'm hold a double master degree in Artificial Intelligence & Innovation Management.  
 
-🌱 I’m currently working on 2 distinct master theses @Philips on the topic of Synthetic Data.
-
-📫 Contact: r.v.hoorn@gmail.com
+📫 Contact: r.v.hoorn99@gmail.com
 
 <!---
 rdvhoorn/rdvhoorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
